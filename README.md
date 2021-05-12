@@ -1,2 +1,2 @@
 # Todo-app
-An simple Todo App made with react !
+A Simple Todo App made with react !
